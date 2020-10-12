@@ -1,4 +1,4 @@
-# Migrate to GitHub
+# Migrate to GitHub (Production) 4 Weeks
 
 GitHub is where people build software. Canarys provides a full support on GitHub services from idea to implementation. Our experts are ready to help you on consulting, deployment, migration, integration and more.
 
