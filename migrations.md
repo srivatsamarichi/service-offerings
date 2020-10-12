@@ -26,11 +26,11 @@ Support you in applying source archive bundles onto GitHub Enterprise Cloud dest
 ## Syllabus
 
 In this engagement, a Implementation Engineer will guide you through the process of migrating sources to the GitHub Enterprise Cloud target. This includes:
+- Analyse the current environment and define the migration strategy
 - Export sources
 - Review essential best practices for users, groups, projects, and repositories
 - Map sources to GitHub Enterprise Cloud, such as organizations, users, teams, and repositories
 - Conduct migration dry-runs
-- Conduct production migration (if time permits)
 - Write and distribute migration docs
 
 ## Businesss Outcomes

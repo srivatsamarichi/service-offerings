@@ -11,12 +11,12 @@ Our DevOps expertise combined with Microsoft ALM tools will remove silos, improv
 ## Target Audience
 
 - Development Leaders
-- DevOps
+- DevOps Professionals
 - Developers
 
 ## Key Features and Benefits
 
-- Get expert assistance designing a DevOps pipeline for your project
+- Get expert assistance on defining the DevOps best practices for your project
 - Maximize your investment with trusted integrations and apps
 - Hands on building and testing of the desired pipeline
 
