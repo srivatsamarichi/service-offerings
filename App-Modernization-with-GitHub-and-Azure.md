@@ -2,7 +2,7 @@
 
 ## Overview
 
-avigate the fast-changing world of DevOps with sustainable, repeatable, and safe pipelines and modernise the product delivery teams. You will get there quicker with hands on support and customised workshops, from designing your DevOps environment to keeping your code safe.
+Navigate the fast-changing world of DevOps with sustainable, repeatable, and safe pipelines and modernise the product delivery teams. You will get there quicker with hands on support and customised workshops, from designing your DevOps environment to keeping your code safe.
 
 Our DevOps expertise combined with Microsoft ALM tools will remove silos, improve quality of work, streamline better software development, deliver applications in an automated fashion and reduce operational costs. Canarys helps you achieve higher productivity, with cost effective solutions, reduced maintenance and better information flow leveraging Microsoft Azure Platform.    
 
