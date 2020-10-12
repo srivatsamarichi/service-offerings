@@ -27,17 +27,18 @@ Our DevOps expertise combined with Microsoft ALM tools will remove silos, improv
 
 ## Syllabus
 
-This workshop focuses on helping you set up and integrate with orchestration as well as continuous integration and deployment (CI/CD) tools to improve your path to production. Activities and deliverables associated with this setup may include the following, subject to additional scoping:
+This engagement focuses on helping you set up and integrate with orchestration as well as continuous integration and deployment (CI/CD) tools to improve your path to production. Activities and deliverables associated with this setup may include the following, subject to additional scoping:
 
 - Discuss the capabilities of potential DevOps tools (if not already selected)
 - Set-up and complete initial configuration of selected tools
 - Integrate selected tools with GitHub
 - Hands-on work with your development teams to implement the DevOps pipeline in existing projects
+- Lift and Shift the application to App Services
 - Create templates, scripts, and playbooks for setting up additional projects in the future
 
 ## Business Outcomes
 
-After this workshop, your teams will be able to:
+After this engagement, your teams will be able to:
 
 - DevOps pipeline development
 - Write quality code with confidence
