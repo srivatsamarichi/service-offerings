@@ -4,7 +4,7 @@ GitHub is where people build software. Canarys provides a full support on GitHub
 
 We deliver the guidance and insight for you to have a successful migration, retaining full version control history and metadata, such as Issues, Pull Requests, Comments, and Users. Ensure the data is migrated to your GitHub Enterprise Cloud account accurately and efficiently, with guidance and best practice expertise from our Implementation Engineer.
 
-![](media/service-offerings/migrations.png)
+![](media/migrations.png)
 
 ## Target Audience
 

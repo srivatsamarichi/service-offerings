@@ -8,7 +8,7 @@ Canarys is a Microsoft Gold DevOps Partner and Microsoft Qualified DevOps FastTr
 
 ## Architecture
 
-![](media/service-offerings/devsecops-in-azure.png)
+![](media/devsecops-in-azure.png)
 
 ## Target Audience
 
