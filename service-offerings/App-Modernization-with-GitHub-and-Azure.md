@@ -8,7 +8,7 @@ Our DevOps expertise combined with Microsoft ALM tools will remove silos, improv
 
 ## Architecture
 
-![](media/devsecops-in-github-data-flow.png)
+![](media/service-offerings/devsecops-in-github-data-flow.png)
 
 ## Target Audience
 
