@@ -1,4 +1,4 @@
-# App Modernization with Azure Kubernetes Service
+# App Modernization with AKS and GitHub (3-4 weeks)
 
 Kubernetes is a popular container orchestration platform for automating the management, scaling and routing of containers. This platform provides necessary capabilities for container orchestration without the steep learning curve, simplified security configuration and simplified infrastructure.
 
@@ -12,7 +12,7 @@ Sudden and compelling demands of Infrastructure is one of the key areas of indus
 
 ## Architecture
 
-![](media/architecture.jpg)
+![architecture](media/architecture.jpg)
 
 ## Target Audience
 
@@ -35,11 +35,11 @@ Sudden and compelling demands of Infrastructure is one of the key areas of indus
 
 ## Syllabus
 
-This engagement focuses on Implementation and management of Kubernetes and DevOps platform for more secure, agile and sustainable development of modern scalable applications. Activities and deliverables associated with this setup may include the following, subject to additional scoping:
+This engagement focuses on Implementation and management of Kubernetes and DevOps platform for more secure, agile and sustainable development of modern scalable applications. Create workflows that you can set up in your repository to build, test, package, release and deploy to Azure using **GitHub Actions**. Activities and deliverables associated with this setup may include the following, subject to additional scoping:
 
 ### Phase-1
 
-- Discussion on the scope of engagement 
+- Discussion on the scope of engagement
 - Identify candidate application(s)
 - Assess the ideal state of migration with Azure migration assistant tool
 - Azure account set up, policies and compliance
@@ -51,7 +51,7 @@ This engagement focuses on Implementation and management of Kubernetes and DevOp
 - Creation of basic webapp Docker files and Docker compose files
 - Building of Docker images with tags and creating ACR
 - Pushing images to ACR and setting up of Azure DevOps
-- Creation of AKS cluster using AZ cli and configuring Deployment Manifests 
+- Creation of AKS cluster using AZ cli and configuring Deployment Manifests
 - Defining right strategy of deployment, networking and services
 
 ### Phase-3
@@ -69,4 +69,4 @@ After this engagement, your teams will be able to:
 
 - Build DevOps pipeline for Container workloads
 - The teams will have the foundational functional knowledge on Docker, Kubernetes and AKS
-- Implement simple AKS with Kubernetes infrastructure at their organizations.
+- Implement simple AKS with Kubernetes infrastructure at their organizations
