@@ -1,8 +1,8 @@
 # App Modernization with Azure DevOps and GitHub (2 Weeks)
 
-## Overview
-
 Navigate the fast-changing world of DevOps with sustainable, repeatable, and safe pipelines and modernise the product delivery teams. You will get there quicker with hands on support and customised workshops, from designing your DevOps environment to keeping your code safe.
+
+## Overview
 
 Canarys is a Microsoft Gold DevOps Partner and Microsoft Qualified DevOps FastTrack Partner to get everything you need in a single solution including agile planning, source code control, package management, build, testing and release automation to continuously integrate, test, deliver and monitor your application. A complete DevOps toolchain to help you deploy your application faster with confidence.
 
