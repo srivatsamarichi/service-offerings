@@ -1,12 +1,12 @@
-# GitHub Overview (Half Day)
+# GitHub Overview (1 Day)
 
 This workshop will provide information on DevOps practices to help teams eliminate delivery impediments and deliver continuous value with software. Modern app lifecycle management extends beyond source code management or version control to encompass full lifecycle practices that integrate teams and functions, eliminate waste, and reduce cycle times across every aspect of software development from ideation to production operations.  
 
-GitHub and Visual Studio is a comprehensive solution that makes it simple for any team to adopt and apply modern app lifecycle management practice at their own pace to eliminate delivery impediments and transition to a continuous delivery cadence.  
+GitHub and Visual Studio is a comprehensive solution that makes it simple for any team to adopt and apply modern app lifecycle management practice at their own pace to eliminate delivery impediments and transition to a continuous delivery cadence.
 
 ## Duration
 
-Half Day
+1 Day
 
 ## Target Audience
 
@@ -48,13 +48,19 @@ This workshop focuses on helping you set up and integrate with orchestration as 
 
 - Visualize the work and prioritize alongside code using project boards
 
+- Configuring Teams in GitHub organization
+
 ### GitHub Repos
 
-- Demonstration on basic GitHub features like commit, push, pull and code review with pull requests
+- Overview about Distributed and Centralized version control system (GIT/TFVC)
 
-- Clone the repo with your choice of IDE
+- Demonstration on-
 
-- Walkthrough about Branch policies
+    - Clone the repo with your choice of IDE
+    - Associate your work with commits
+    - Update code with fetch and pull
+    - Walkthrough about Branch policies
+    - Review code with pull requests
 
 ### CI/CD with GitHub Actions
 
@@ -62,4 +68,16 @@ This workshop focuses on helping you set up and integrate with orchestration as 
 
 - Explanation of GitHub-Hosted and Self-Hosted runners
 
-- Creation of Build and Release workflows and deploy App to Azure App Services
+- Creation of Build workflows
+
+- Creating a build workflow
+
+- Adding the actions
+
+- Setup Continuous Integration (CI), Build for sample application
+
+- Creating a Release workflow
+
+- Adding Release actions
+
+- Setup Continuous Deployment (CD), Release to Azure Apps Service

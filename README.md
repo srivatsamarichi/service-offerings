@@ -14,4 +14,5 @@ An enduring engagement carried out by Canarys with its customers, thrives to ach
 
 ## Workshops
 
-TBA
+- [GitHub Overview (Half day)](workshops/github.md)
+- 
