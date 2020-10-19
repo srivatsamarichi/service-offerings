@@ -17,3 +17,4 @@ An enduring engagement carried out by Canarys with its customers, thrives to ach
 - [GitHub Overview (Half day)](workshops/github.md)
 - [GitHub (1 day)](workshops/github-1day.md)
 - [GitHub (2 day)](workshops/github-2day.md)
+- [Azure DevOps Overview (Half day)](workshops/ADO.md)
