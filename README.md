@@ -2,7 +2,7 @@
 
 An enduring engagement carried out by Canarys with its customers, thrives to achieve predictable delivery through managed processes, so as to build a long lasting relationship by adding value.
 
-![canarys](media/Pipelines.jpg)
+:::image type="content" source="service-offerings/media/Pipelines.jpg" alt-text="canarys":::
 
 ## Service Offerings
 
