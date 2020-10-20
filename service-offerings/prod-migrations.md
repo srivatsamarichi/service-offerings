@@ -40,3 +40,7 @@ After this engagement, your team will be able to:
 - Support production migrations
 - Maintain Git history and source metadata
 - Minimize down time
+
+- Successfull Migration of projects, source code
+- GitHub Platform ready to be used
+- Roadmap to implement DevOps practices like CI, CD, advance security, DevSecOps
