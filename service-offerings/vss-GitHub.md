@@ -14,9 +14,9 @@ We deliver the guidance and insight for you to have a successful migration, reta
 - GitHub Admins
 
 ## Key Features and Benefits
-Asist in migrating VSS code to GitHub without loosing the history of commits
-Defining right branching strategy for development 
-Hands on performing git operations
+- Asist in migrating VSS code to GitHub without loosing the history of commits
+- Defining right branching strategy for development 
+- Hands on performing git operations
 
 
 ## Delivery Methods
