@@ -6,7 +6,7 @@ GitHub is a place where people store code and also build software. Canarys provi
 
 We deliver the guidance and insight for you to have a successful migration, retaining full version control history. Ensure the data is migrated to your GitHub Enterprise Cloud account accurately and efficiently, with guidance and best practice expertise from our Implementation Engineer.
 
-![](https://dev.azure.com/aks7/83c0c441-6525-49a7-acae-baf51582e180/_apis/git/repositories/8ef3b78c-aad3-4c41-b0f0-dce52632b0ce/items?path=%2Fmigrations.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![](media/migrations.png)
 
 ## Target Audience
 - DevOps Engineers
